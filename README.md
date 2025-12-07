@@ -1,10 +1,10 @@
-![Python](https://img.shields.io/badge/Python-3.9-blue.svg)
-![PySpark](https://img.shields.io/badge/PySpark-Big%20Data-orange.svg)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-MLlib-red.svg)
-![Google Colab](https://img.shields.io/badge/Colab-Notebook-yellow.svg)
-
 
 # Big Data Customer Churn Prediction Using PySpark
+
+![Python](https://img.shields.io/badge/Python-3.9-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-Big%20Data-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-MLlib-FF5F00?style=for-the-badge&logo=apachespark&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 This project uses PySpark to analyze telecom customer churn and build a churn prediction model. The workflow includes data preprocessing, exploratory analysis, and a logistic regression model using Spark MLlib. All steps were executed in Google Colab.
 
